@@ -1,6 +1,5 @@
 # Chatbot Project using Next.js, Tailwind CSS, and OpenAI API
 
-/#/ NOTE : For The Orangewood Company's ease I have kept my .env file in the Source Code. /#/
 
 
 ## Table of Contents
